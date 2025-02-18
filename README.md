@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reubwa
-- 👀 I’m interested in C#, Politics & Comedy
+- 👀 I’m interested in C# & Comedy
 - 🌱 I’m currently learning Blazor
 - 📫 How to reach me: Try LinkedIn
 
